@@ -6,11 +6,11 @@
 
 ## 🚀 Key Performance Indicators (KPIs)
 
-#### Based on the dashboard data, the market overview includes:
-#### • Total Properties Analyzed: 1,000 listings.  
-#### • Average Property Price: 1.67 Million SAR.  
-#### • Price Range: Prices start from a minimum of 400 SAR up to a maximum of 27 Million SAR.  
-#### • Area Range: Property sizes vary significantly, ranging from 61 sqm to 9,100 sqm.  
+ Based on the dashboard data, the market overview includes:
+ • Total Properties Analyzed: 1,000 listings.  
+• Average Property Price: 1.67 Million SAR.  
+ • Price Range: Prices start from a minimum of 400 SAR up to a maximum of 27 Million SAR.  
+ • Area Range: Property sizes vary significantly, ranging from 61 sqm to 9,100 sqm.  
 
 
 ## 📈 Key Insights & Market Trends
