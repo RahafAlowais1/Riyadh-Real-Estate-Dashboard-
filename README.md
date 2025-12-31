@@ -31,7 +31,8 @@ From the visual analytics, several critical trends emerge:
  4. Statistical Summaries: Highlight cards for Min/Max prices and total property counts.  
 
 ## 🛠 Tech Stack
- • Data Visualization: Power BI. 
+ • Data Visualization: Power BI.
+ 
  • Data Source: https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-real-estate
  
  
