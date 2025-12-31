@@ -1,5 +1,3 @@
-<img width="1633" height="943" alt="Riyhad" src="https://github.com/user-attachments/assets/26512e14-2431-40df-aa15-4cc4e642d268" />
-
 # Riyadh Real Estate Market Analysis Dashboard 🏠📍
 
 ## 📝 Project Overview
@@ -36,4 +34,6 @@ From the visual analytics, several critical trends emerge:
  • Data Visualization: Power BI. 
  • Data Source: https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-real-estate
  
+ <img width="1633" height="943" alt="Riyhad" src="https://github.com/user-attachments/assets/aca2af39-0ee8-4408-8b10-bd96dc404cea" />
+
 
