@@ -34,6 +34,7 @@ From the visual analytics, several critical trends emerge:
  • Data Visualization: Power BI. 
  • Data Source: https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-real-estate
  
+ 
  <img width="1633" height="943" alt="Riyhad" src="https://github.com/user-attachments/assets/aca2af39-0ee8-4408-8b10-bd96dc404cea" />
 
 
