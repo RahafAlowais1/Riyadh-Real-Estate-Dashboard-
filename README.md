@@ -25,13 +25,13 @@ From the visual analytics, several critical trends emerge:
 
  • Property Type Distribution:
  
- -Apartments (شقة): Represent the largest share of the market at 32.86% (394 units).
+-Apartments (شقة): Represent the largest share of the market at 32.86% (394 units).
   
- - Villas (فيلا): Closely follow at 32.44% (389 units).
-   
-  - Residential Lands (ارض سكنية): Make up 26.69% (320 units) of the listings.
-  
-  - Other types like Commercial Buildings (عمارة), Rest Houses (استراحة), and Floors (دور) constitute a smaller portion of the market.
+-Villas (فيلا): Closely follow at 32.44% (389 units).
+
+-Residential Lands (ارض سكنية): Make up 26.69% (320 units) of the listings.
+ 
+-Other types like Commercial Buildings (عمارة), Rest Houses (استراحة), and Floors (دور) constitute a smaller portion of the market.
   
    • Geographic Concentration: The heat map shows a high density of properties concentrated in central Riyadh and expanding towards the North (Al-Qairawan and Al-Malqa areas). 
  
